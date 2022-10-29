@@ -14,8 +14,8 @@
     "url": "git+https://github.com/ettad/team-profile-generator.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "ettad",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ettad/team-profile-generator/issues"
   },
